@@ -7,7 +7,7 @@ Status: #idea
 Tags:
 
 # natürliche Selektion
-- Inidividuen mit vorteilhaften Merkmalen, die besser an ihre Umwelt angepasst sind, haben eine höhere Warscheinlichkeit zu überleben und sich fortzupflanzen 
+- Individuen mit vorteilhaften Merkmalen, die besser an ihre Umwelt angepasst sind, haben eine höhere Warscheinlichkeit zu überleben und sich fortzupflanzen 
 ## [[Selektionstypen]]
 
 ---
@@ -19,4 +19,4 @@ Tags:
 
 
 # Was ist Natürliche Selektion? #card 
-Prozess in dem Inidividuen mit vorteilhaften Merkmalen, die besser an ihre Umwelt angepasst sind, eine höhere Warscheinlichkeit haben, zu überleben und sich fortzupflanzen 
+Prozess in dem Individuen mit vorteilhaften Merkmalen, die besser an ihre Umwelt angepasst sind, eine höhere Warscheinlichkeit haben, zu überleben und sich fortzupflanzen 
