@@ -1,5 +1,6 @@
 ---
 cards-deck: Schule::Biologie::Evolution
+title: Evolution
 ---
 202412041126
 Status: #idea
