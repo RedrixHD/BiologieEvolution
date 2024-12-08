@@ -7,7 +7,7 @@ Status: #idea
 Tags:
 
 # Sympatrische Artenbildung
-- Entstehung neuer Arten ohne [[Geografische Isolation]], sondern innerhalb derselben geografischen Isolation
+- Entstehung neuer Arten ohne [[Geografische Isolation]], sondern innerhalb derselben geografischen Region
 - Ursachen: [[Ökologische Isolation]], [[Verhaltensbedingte Isolation]], genetische Veränderungen wie Polyploidie
 
 
@@ -20,7 +20,7 @@ Tags:
 
 
 # Was ist Sympatrische Artenbildung? #card 
-Entstehung neuer Arten ohne Geografische Isolation, sondern innerhalb derselben geografischen Isolation
+Entstehung neuer Arten ohne Geografische Isolation, sondern innerhalb derselben geografischen Region
 
 
 # Was sind Ursachen der Sympatrischen Artenbildung? #card 
