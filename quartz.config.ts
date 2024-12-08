@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "de-DE",
     baseUrl: "redrixhd.github.io/BiologieEvolution",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
